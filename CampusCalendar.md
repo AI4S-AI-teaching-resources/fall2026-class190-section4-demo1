@@ -4,7 +4,6 @@ Event 1
  * location
  * time
 
-Jaden's Birthday Party
- * Jaden's room
- * Sep. 4th
-
+ECC Cafe - Jaden Stout-Reason
+ * Campus Village 2
+ * Every thursday morning from 7:45 - 9:30 (must be ECC student)
